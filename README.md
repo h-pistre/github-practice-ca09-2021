@@ -137,3 +137,4 @@
 | 107 | Yuzhou Li            | A13             |     Joe9806             | 2021-10-04    | 
 | 108 | Kaize Ying           | A9             |     Kaize Ying            | 2021-10-04    |  
 | 109 | Teen Ho Nicholas Ching            | A8              |     nickching98             | 2021-10-04    |  
+| 110 | Hadrien Pistre | B9 | h-pistre | 2021-10-19 | https://github.com/h-pistre | https://hadrien-pistre.netlify.app/
